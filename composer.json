@@ -1,5 +1,5 @@
 {
-    "name": "aan/ssocr-for-php",
+    "name": "aanred/ssocr-for-php",
     "description": "A wrapper to work with Seven Segment OCR for PHP.",
     "type": "library",
     "authors": [
