@@ -50,7 +50,7 @@ Manual threshold ([inside_box.png](https://github.com/aanred/ssocr-for-php/blob/
 ![Threshold](https://github.com/aanred/ssocr-for-php/blob/master/img/inside_box.png)
 
 ```php
-$ssocr = new SSOCR('004200.png');
+$ssocr = new SSOCR('inside_box.png');
 // use manual thresholding
 $ssocr->threshold(20);
 // we need to crop the image to take only the boxed numbers
