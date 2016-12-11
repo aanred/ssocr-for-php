@@ -1,0 +1,12 @@
+{
+    "name": "aan/ssocr-for-php",
+    "description": "A wrapper to work with Seven Segment OCR for PHP.",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Ahmad Subhan",
+            "email": "ahmad.subhan@aol.com"
+        }
+    ],
+    "require": {}
+}
